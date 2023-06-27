@@ -1,0 +1,35 @@
+prn- 230343020087
+Name -Amol Shinde
+know-it march-23
+Project name="HotelHub"(Hotel management system)
+
+List of User Story:
+1.location
+2.check-In check-Out date,time
+3.Number of persons(kids ,aged,adults ;male female)
+4.Number of rooms required
+5.Room type(Luxaries,Normal)
+6.Offers
+7.Facilities(Food(Lunch,dinner),cleaning,WI-FI,Water)
+8.Searching(location,price,rating,Hotel_type)
+9.Reviews
+10.Hotel images/View property
+11.Rating
+12.Range
+
+
+13.Number of Rooms available
+14.Buget
+15.sort(according to price ,rating,reviews,)
+16.Details
+17.Payment
+18.Event management
+
+19.Dinning
+20.Highlights(location, near by location, party hall,swimming poll)
+21.whishlist
+22.Kids Zone
+23.Enquiry /contact details
+24.Swimming pool
+25.Garden 
+26.personalize rooms
